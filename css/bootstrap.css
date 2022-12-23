@@ -1,0 +1,104 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+
+ /* carousel */
+
+    .carousel-caption {
+        position: absolute;
+        right: 36%;
+        
+        left: 15%;
+        padding-top: 0.25rem;
+        padding-bottom: 1.25rem;
+        color: 
+    #fff;
+
+    top: 7px;
+
+    }
+    .carousel-caption p {
+        font-size: 12px;
+    }
+
+
+    .carousel-caption h1 {
+        
+        
+        font-size: 28px;
+        height: 154px;
+    }
+    .btn-primary {
+      font-size: 12px;
+    }
+
+    .carousel-item {
+        height: 15rem;
+    }
+.marketing img{
+    width: 350px;
+}
+.text_1 {
+    display: inline-block !important;
+    padding: 15px;
+}
+
+
+.item_1 {
+    flex-wrap: wrap;
+}
+.item_1 {
+    flex-basis: 43%;
+    margin: 15px;
+}
+
+.item_1 img{
+    width: 137px;
+padding: 4px;
+margin: 10px;
+}
+
+#support {
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /* arrivals */
+
+    #arrivals .tittle h3::before {
+
+        content: '';
+        position: absolute;
+        width: 20%;
+        left: 250px;
+        top: 16px;
+        height: 1px;
+        background-color: #6c757d;
+        transition: .4s;
+
+    }
+    #arrivals .tittle h3::after {
+        content: '';
+        position: absolute;
+        width: 21%;
+        left: -41px;
+        top: 19px;
+        height: 1px;
+        background-color: 
+        #6c757d;
+        transition: .4s;
+    }
+
+}
